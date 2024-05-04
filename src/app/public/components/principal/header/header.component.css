@@ -1,0 +1,6 @@
+nav {
+    @apply font-yeseva;
+}
+.menu-selected {
+    @apply text-blue-600;
+}
